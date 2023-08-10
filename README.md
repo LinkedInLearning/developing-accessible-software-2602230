@@ -15,6 +15,8 @@
 * Darstellungsmodi
 * Zoommodus und Beste Nutzung des Bildschirms
 
+![](text-als-bild-1.png)
+
 ## Teststrategien für Entwickler
 
 * Browserentwicklerwerkzeuge
@@ -24,7 +26,7 @@
 ## Barrierefrei Entwickeln
 
 * Nutzen der Platform
-* Barrieren vermeiden und Platz lassen
+* Barrieren vermeiden
 * Alternativzugänge erlauben
 * Event Handling unabhängig von Eingabegeräten
 * Darstellungsmodi in CSS
